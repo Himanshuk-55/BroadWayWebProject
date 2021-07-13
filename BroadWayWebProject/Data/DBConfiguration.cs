@@ -13,7 +13,7 @@ namespace BroadWayWebProject.Data
         {
         }
 
-        public virtual DbSet<Models.Login> Logins { get; set; }
+        //public virtual DbSet<Models.Login> Logins { get; set; }
         public virtual DbSet<Models.Account> Accounts { get; set; }
     }
 }

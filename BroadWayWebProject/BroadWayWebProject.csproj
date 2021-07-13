@@ -175,6 +175,7 @@
     <Content Include="Views\Logins\Login.cshtml" />
     <Content Include="Scripts\jquery-3.6.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.6.0.min.map" />
+    <Content Include="Views\Logins\Successfull.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
